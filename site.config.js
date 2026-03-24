@@ -14,19 +14,19 @@
  */
 var SITE_CONFIG = {
     // ── Domain Utama (Production) ──────────────────────────
-    PRIMARY_DOMAIN: 'cepat.top',
+    PRIMARY_DOMAIN: 'digirichest.my.id',
 
-    APP_BASE_URL: 'https://cepat.top',
+    APP_BASE_URL: 'https://digirichest.my.id',
 
     // ── Daftar Domain yang Diizinkan ───────────────────────
     ALLOWED_DOMAINS: [
-        'cepat.top',
-        'www.cepat.top'
+        'digirichest.my.id',
+        'www.digirichest.my.id'
     ],
 
     // ── Pattern Subdomain yang Diizinkan ───────────────────
     ALLOWED_SUBDOMAIN_SUFFIXES: [
-        '.cepat.top'
+        '.digirichest.my.id'
     ],
 
     // ── Cloudflare Pages Preview ───────────────────────────
