@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "kelasjagoan3",
+  "name": "digirichestmyid",
   "main": "_worker.js",
   "compatibility_date": "2025-09-27",
   "observability": {
@@ -16,8 +16,8 @@
   ],
   "vars": {
     "ALLOWED_ORIGINS": "https://digirichest.my.id,https://www.digirichest.my.id",
-    "APP_GAS_URL": "https://script.google.com/macros/s/AKfycbxvpwcjg4pwXiXFVrCZ2W_qtSaahMkbbowPqvNGPJKkhO4zpLFsP2MF8lkpMoZ37LHy/exec",
-    "MOOTA_GAS_URL": "https://script.google.com/macros/s/AKfycbxvpwcjg4pwXiXFVrCZ2W_qtSaahMkbbowPqvNGPJKkhO4zpLFsP2MF8lkpMoZ37LHy/exec",
+    "APP_GAS_URL": "https://script.google.com/macros/s/AKfycby4rxmOQ_UAB-aCHsn6NksoNz5ym5qGvIlAv2wZ96xXjgYeoT2vXGFQLLI00zuhSSub/exec",
+    "MOOTA_GAS_URL": "https://script.google.com/macros/s/AKfycby4rxmOQ_UAB-aCHsn6NksoNz5ym5qGvIlAv2wZ96xXjgYeoT2vXGFQLLI00zuhSSub/exec",
     "MOOTA_TOKEN": "l1GiARpI"
   }
 }
